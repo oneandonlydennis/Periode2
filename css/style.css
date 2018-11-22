@@ -1,0 +1,50 @@
+nav img{
+    width: 20%;
+    height: 20%;
+}
+
+nav li{
+    font-size: 150%;
+    border-right: 1px solid white;
+}
+
+nav li a{
+    color: white !important;
+}
+
+#noborder{
+    border: none;
+}
+
+nav li a:hover{
+    color: rgb(121, 121, 121) !important;
+}
+
+.navbar{
+    background-color: blue !important;
+}
+
+.top{
+    height: 20px;
+    width: 100%;
+    background-color: rgb(75,75,255);
+}
+
+.form{
+    height: 500px;
+    background-color: red;
+}
+
+[class*="col-"] {
+    padding: 1%;
+}
+
+.jumbotron{
+    background: url("../img/testimage.png");
+    background-size: cover;
+}
+
+footer p{
+    float: right;
+
+}
